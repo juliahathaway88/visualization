@@ -10,25 +10,16 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      1. "Hospital Emergency Room Dashboard" visualization from Public Tableau (https://public.tableau.com/app/profile/holly.jones7872/viz/RWFDHospitalERDashboard_17422957394640/HospitalERvsWaitTimes). I classify this as an overall good visualization. Although data visualization can never be completely neutral, I think this visualization does a good job of staying as neutral as possible, which is good considering the data is potentially sensitive and factual in nature. The graphs are aesthetically pleasing to look at and they are all common chart types. This helps decrease cognitive load for the viewer. The authos seems to be exploring patient admissions to the emergency room and highlights the group that stands out the most in each scenario. This is well done through the color constrast between dark red and light gray. This helps to ensure the information stays with the audience, increasing memory. 
 
-
-
-
-
-
-
+      2. "Melbourne in Motion: Pedestrian movements 2009 - 2022" visualization from Public Tableau (https://public.tableau.com/app/profile/guido.greger/viz/MelbourneinMotion-V02/MelbourneMovements). I classify this as an overall poor visulization. The main reasons I think this is a poor visualization are that the author included too much information in one figure and made the visualization overly complex. I would consider this a rare chart type, giving it a greater cognitive load for the viewer. Personally, I don't find it aethetically pleasing to look at and I think chosing a circular chart to show time series data is not intuitive. Further, the background makes the chart even more difficult to look at. The bars are also skinny, which would make it difficult to isolate a point in time if needed. 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      1. The author could have more clearly divided the panels and perhaps made the titles more obvious. They also should add more legends. It's not clear, for example, in the first graph under "Patient Visits by Weekend and Time" why the one bar is dark red and the others are gray. I can guess that it is because that is the day with the most visits, but I should not have to guess. 
 
+      2. The author could have chosen a continuous chart type with a clear start and end point. For example, I think a stacked time series chart would have been nice. I would have put the spatial data in a separate panel. Since the reader has to navigate through this chart themselves, a linear chart could help them do this. 
 
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
